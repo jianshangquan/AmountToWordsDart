@@ -12,4 +12,10 @@ class ChineseAmountToWord extends AmountToWord {
     // TODO: implement convertInLetter
     throw UnimplementedError();
   }
+
+  @override
+  bool checkValidAmount() {
+    // TODO: implement checkValidAmount
+    throw UnimplementedError();
+  }
 }

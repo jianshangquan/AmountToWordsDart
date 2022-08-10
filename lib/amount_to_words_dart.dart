@@ -59,4 +59,5 @@ abstract class AmountToWord {
 
   String convert();
   String convertInLetter();
+  bool checkValidAmount();
 }
